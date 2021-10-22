@@ -1,0 +1,15 @@
+fx_version 'adamant'
+game 'gta5'
+
+shared_scripts {
+	'@es_extended/locale.lua',
+	'config.lua'
+}
+
+server_scripts {
+	'server/main.lua'
+}
+
+client_scripts {
+	'client/main.lua'
+}
